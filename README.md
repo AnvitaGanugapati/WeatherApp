@@ -2,7 +2,7 @@
 Weather app in CSS, HTML, and JS following a tutorial
 
 # Overview
-This is a weather app that grabs weather data from [OpenWeather API](https://openweathermap.org/api) to display the real-time weather in the inputted city. I built this project following a step-by-step youtibe tutorial, while actively engaging in learning about the tools and technologies involved.
+This is a weather app that grabs weather data from [OpenWeather API](https://openweathermap.org/api) to display the real-time weather in the inputted city. I built this project in HTML, JS, and CSS following a step-by-step youtibe tutorial, while actively engaging in learning about the tools and technologies involved.
 
 # Credits
 [Youtube Tutorial by GreatStack](https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=2115s&ab_channel=GreatStack)
